@@ -1,0 +1,427 @@
+[
+    {
+        "brand": "Jinro",
+        "manufacturer": "HiteJinro",
+        "distributor": "Southern Glazer's Wine & Spirits"
+    },
+    {
+        "brand": "Smirnoff",
+        "manufacturer": "Diageo",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Bacardi",
+        "manufacturer": "Bacardi Limited",
+        "distributor": "Bacardi USA"
+    },
+    {
+        "brand": "Johnnie Walker",
+        "manufacturer": "Diageo",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Jack Daniel's",
+        "manufacturer": "Brown-Forman",
+        "distributor": "Brown-Forman"
+    },
+    {
+        "brand": "Hennessy",
+        "manufacturer": "Moët Hennessy",
+        "distributor": "Moët Hennessy USA"
+    },
+    {
+        "brand": "Belvedere",
+        "manufacturer": "LVMH",
+        "distributor": "Moët Hennessy USA"
+    },
+    {
+        "brand": "Tanqueray",
+        "manufacturer": "Diageo",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Courvoisier",
+        "manufacturer": "Beam Suntory",
+        "distributor": "Beam Suntory"
+    },
+    {
+        "brand": "Captain Morgan",
+        "manufacturer": "Diageo",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Casamigos",
+        "manufacturer": "Diageo",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Chase Vodka",
+        "manufacturer": "Chase Distillery",
+        "distributor": "Breakthru Beverage Group"
+    },
+    {
+        "brand": "Maestro",
+        "manufacturer": "Diageo",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Malibu",
+        "manufacturer": "Pernod Ricard",
+        "distributor": "Pernod Ricard USA"
+    },
+    {
+        "brand": "Mandarine Napoleon",
+        "manufacturer": "De Kuyper Royal Distillers",
+        "distributor": "Republic National Distributing Company"
+    },
+    {
+        "brand": "Dunjevača",
+        "manufacturer": "Rakia & Co",
+        "distributor": "Allied Beverage Group"
+    },
+    {
+        "brand": "Baileys",
+        "manufacturer": "Diageo",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Amaretto",
+        "manufacturer": "Disaronno International",
+        "distributor": "Disaronno International"
+    },
+    {
+        "brand": "Armagnac",
+        "manufacturer": "Armagnac Castarède",
+        "distributor": "Breakthru Beverage Group"
+    },
+    {
+        "brand": "Grand Marnier",
+        "manufacturer": "Campari Group",
+        "distributor": "Campari America"
+    },
+    {
+        "brand": "Disaronno",
+        "manufacturer": "Illva Saronno",
+        "distributor": "Disaronno International"
+    },
+    {
+        "brand": "Reposado Tequila",
+        "manufacturer": "Patrón Spirits",
+        "distributor": "Bacardi USA"
+    },
+    {
+        "brand": "Goldwasser",
+        "manufacturer": "Der Lachs",
+        "distributor": "Allied Beverage Group"
+    },
+    {
+        "brand": "Cabin Still",
+        "manufacturer": "Heaven Hill Brands",
+        "distributor": "Heaven Hill Brands"
+    },
+    {
+        "brand": "Cacique Guaro",
+        "manufacturer": "Fábrica Nacional de Licores",
+        "distributor": "Breakthru Beverage Group"
+    },
+    {
+        "brand": "California Cooler",
+        "manufacturer": "E & J Gallo Winery",
+        "distributor": "E & J Gallo Winery"
+    },
+    {
+        "brand": "Calvert Extra",
+        "manufacturer": "Jim Beam",
+        "distributor": "Beam Suntory"
+    },
+    {
+        "brand": "Casa Dragones",
+        "manufacturer": "Tequila Casa Dragones",
+        "distributor": "Southern Glazer's Wine & Spirits"
+    },
+    {
+        "brand": "Chamisul",
+        "manufacturer": "HiteJinro",
+        "distributor": "Southern Glazer's Wine & Spirits"
+    },
+    {
+        "brand": "Chelsea",
+        "manufacturer": "Chelsea Milling Company",
+        "distributor": "Republic National Distributing Company"
+    },
+    {
+        "brand": "Châteauneuf-du-Pape",
+        "manufacturer": "Various",
+        "distributor": "Various"
+    },
+    {
+        "brand": "Amarone della Valpolicella",
+        "manufacturer": "Various",
+        "distributor": "Various"
+    },
+    {
+        "brand": "Vinsanto",
+        "manufacturer": "Various",
+        "distributor": "Various"
+    },
+    {
+        "brand": "Alsace Riesling",
+        "manufacturer": "Various",
+        "distributor": "Various"
+    },
+    {
+        "brand": "Melón con Vino",
+        "manufacturer": "Gato Negro",
+        "distributor": "San Pedro"
+    },
+    {
+        "brand": "Mamma Mia",
+        "manufacturer": "Mamma Mia Wines",
+        "distributor": "Treasury Wine Estates"
+    },
+    {
+        "brand": "Mancabelli",
+        "manufacturer": "Mancabelli",
+        "distributor": "Breakthru Beverage Group"
+    },
+    {
+        "brand": "Manly Spirits",
+        "manufacturer": "Manly Spirits Co.",
+        "distributor": "Breakthru Beverage Group"
+    },
+    {
+        "brand": "Maraska",
+        "manufacturer": "Maraska",
+        "distributor": "Allied Beverage Group"
+    },
+    {
+        "brand": "Absolut",
+        "manufacturer": "Pernod Ricard",
+        "distributor": "Pernod Ricard USA"
+    },
+    {
+        "brand": "Jameson",
+        "manufacturer": "Pernod Ricard",
+        "distributor": "Pernod Ricard USA"
+    },
+    {
+        "brand": "Jose Cuervo",
+        "manufacturer": "Proximo Spirits",
+        "distributor": "Proximo Spirits"
+    },
+    {
+        "brand": "Jägermeister",
+        "manufacturer": "Mast-Jägermeister",
+        "distributor": "Mast-Jägermeister US"
+    },
+    {
+        "brand": "Kahlúa",
+        "manufacturer": "Pernod Ricard",
+        "distributor": "Pernod Ricard USA"
+    },
+    {
+        "brand": "Ketel One",
+        "manufacturer": "Nolet Distillery",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Kingfisher",
+        "manufacturer": "United Breweries Group",
+        "distributor": "Heineken USA"
+    },
+    {
+        "brand": "Kraken Rum",
+        "manufacturer": "Proximo Spirits",
+        "distributor": "Proximo Spirits"
+    },
+    {
+        "brand": "Lagavulin",
+        "manufacturer": "Diageo",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Laphroaig",
+        "manufacturer": "Beam Suntory",
+        "distributor": "Beam Suntory"
+    },
+    {
+        "brand": "Leffe",
+        "manufacturer": "AB InBev",
+        "distributor": "Anheuser-Busch"
+    },
+    {
+        "brand": "Löwenbräu",
+        "manufacturer": "AB InBev",
+        "distributor": "Anheuser-Busch"
+    },
+    {
+        "brand": "Macallan",
+        "manufacturer": "Edrington",
+        "distributor": "Edrington Americas"
+    },
+    {
+        "brand": "Maker's Mark",
+        "manufacturer": "Beam Suntory",
+        "distributor": "Beam Suntory"
+    },
+    {
+        "brand": "Martell",
+        "manufacturer": "Pernod Ricard",
+        "distributor": "Pernod Ricard USA"
+    },
+    {
+        "brand": "Martini & Rossi",
+        "manufacturer": "Bacardi Limited",
+        "distributor": "Bacardi USA"
+    },
+    {
+        "brand": "Matusalem",
+        "manufacturer": "Matusalem & Company",
+        "distributor": "Breakthru Beverage Group"
+    },
+    {
+        "brand": "Meantime",
+        "manufacturer": "Asahi Breweries",
+        "distributor": "Asahi Breweries USA"
+    },
+    {
+        "brand": "Metaxa",
+        "manufacturer": "Rémy Cointreau",
+        "distributor": "Rémy Cointreau USA"
+    },
+    {
+        "brand": "Midleton",
+        "manufacturer": "Irish Distillers",
+        "distributor": "Pernod Ricard USA"
+    },
+    {
+        "brand": "Mikkeller",
+        "manufacturer": "Mikkeller",
+        "distributor": "Mikkeller Distribution"
+    },
+    {
+        "brand": "Miller",
+        "manufacturer": "Molson Coors",
+        "distributor": "Molson Coors USA"
+    },
+    {
+        "brand": "Moët & Chandon",
+        "manufacturer": "Moët Hennessy",
+        "distributor": "Moët Hennessy USA"
+    },
+    {
+        "brand": "Monkey Shoulder",
+        "manufacturer": "William Grant & Sons",
+        "distributor": "William Grant & Sons USA"
+    },
+    {
+        "brand": "Monteith's",
+        "manufacturer": "DB Breweries",
+        "distributor": "Heineken USA"
+    },
+    {
+        "brand": "Moretti",
+        "manufacturer": "Heineken International",
+        "distributor": "Heineken USA"
+    },
+    {
+        "brand": "Mortlach",
+        "manufacturer": "Diageo",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Mount Gay",
+        "manufacturer": "Rémy Cointreau",
+        "distributor": "Rémy Cointreau USA"
+    },
+    {
+        "brand": "Murphy's",
+        "manufacturer": "Heineken International",
+        "distributor": "Heineken USA"
+    },
+    {
+        "brand": "Newcastle Brown Ale",
+        "manufacturer": "Heineken International",
+        "distributor": "Heineken USA"
+    },
+    {
+        "brand": "Nikka",
+        "manufacturer": "Nikka Whisky Distilling",
+        "distributor": "Anchor Distilling Company"
+    },
+    {
+        "brand": "Noilly Prat",
+        "manufacturer": "Bacardi Limited",
+        "distributor": "Bacardi USA"
+    },
+    {
+        "brand": "Oban",
+        "manufacturer": "Diageo",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Old Forester",
+        "manufacturer": "Brown-Forman",
+        "distributor": "Brown-Forman"
+    },
+    {
+        "brand": "Old Monk",
+        "manufacturer": "Mohan Meakin",
+        "distributor": "Allied Beverage Group"
+    },
+    {
+        "brand": "Old Pulteney",
+        "manufacturer": "Inver House Distillers",
+        "distributor": "International Beverage Holdings"
+    },
+    {
+        "brand": "Olmeca",
+        "manufacturer": "Pernod Ricard",
+        "distributor": "Pernod Ricard USA"
+    },
+    {
+        "brand": "Ommegang",
+        "manufacturer": "Duvel Moortgat Brewery",
+        "distributor": "Duvel Moortgat USA"
+    },
+    {
+        "brand": "Ouzo 12",
+        "manufacturer": "Gruppo Campari",
+        "distributor": "Campari America"
+    },
+    {
+        "brand": "Pabst Blue Ribbon",
+        "manufacturer": "Pabst Brewing Company",
+        "distributor": "Pabst Brewing Company"
+    },
+    {
+        "brand": "Pacifico",
+        "manufacturer": "Grupo Modelo",
+        "distributor": "Constellation Brands"
+    },
+    {
+        "brand": "Paddy",
+        "manufacturer": "Sazerac Company",
+        "distributor": "Sazerac Company"
+    },
+    {
+        "brand": "Pallini",
+        "manufacturer": "Pallini S.p.A.",
+        "distributor": "Castle Brands"
+    },
+    {
+        "brand": "Pampero",
+        "manufacturer": "Diageo",
+        "distributor": "Diageo"
+    },
+    {
+        "brand": "Pauwel Kwak",
+        "manufacturer": "Brouwerij Bosteels",
+        "distributor": "Artisanal Imports"
+    },
+    {
+        "brand": "Paulaner",
+        "manufacturer": "Paulaner Brewery",
+        "distributor": "Paulaner USA"
+    }
+]
